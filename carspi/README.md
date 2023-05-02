@@ -66,7 +66,6 @@ dotnet run
 ## Result
 
 
-```
 # Sample API Request and Response
 
 ##  GET Request
